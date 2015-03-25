@@ -4,6 +4,7 @@
 #include "glm-0.9.6.3\glm\glm\glm.hpp"
 #include <vector>
 
+//helloWorld
 //first, let's define each element of the vertex tree structure
 struct vertexTreeNode 
 {
